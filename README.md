@@ -3,4 +3,7 @@ Repository ini berisi implementasi berbagai algoritma pencarian dalam PYHTON, me
 
 
 -Uninformed Search : DFS, BFS, UCS
+
+
+
 -Informed Search : Greedy Best-First Search, A* Tree Search, A* Graph Search
